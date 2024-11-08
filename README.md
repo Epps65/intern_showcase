@@ -17,8 +17,9 @@ Least amount of change given:
 2 - dime
 4 - penny
 
-### Setup and Run Instructions
-Option 1: Using IntelliJ IDEA
+## Setup and Run Instructions
+
+### Option 1: Using IntelliJ IDEA
 Download and Open the Script:
 
 Download Showcase_Exact_Change.java and save it to a folder on your computer.
@@ -30,7 +31,8 @@ Enter an Amount:
 
 When prompted in the console, enter a dollar amount (Example :  19.99), and press Enter.
 The output qill show the least number of chnage.
-Option 2: Using Visual Studio Code
+
+### Option 2: Using Visual Studio Code
 Download and Open the Script:
 
 Download Showcase_Exact_Change.java and save it to a folder.
